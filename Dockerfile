@@ -1,2 +1,2 @@
-FROM ubuntu:latest
+FROM nginx:latest
 EXPOSE 80
